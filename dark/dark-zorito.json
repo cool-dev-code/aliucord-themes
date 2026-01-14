@@ -1,46 +1,54 @@
 {
     "manifest": {
         "author": ".inner_light",
-        "name": "Dark 👽",
+        "name": "Dark 😎",
 		"updater": "https:\/\/raw.githubusercontent.com\/\/cool-dev-code\/\/aliucord-themes\/\/main\/\/dark\/\/dark-zorito.json",
-        "version": "3.0"
+        "version": "3.0.1"
     },
-    "simple_colors": {
+	"simple_colors": {
         "background": -16359763,
         "background_secondary": -15921907,
         "statusbar": -16119286,
         "input_background": -15987700,
         "accent": -14969857,
-		"mention_highlight": 405241549,
+        "mention_highlight": 405241549,
         "mention_highlight_text": -1,
         "mention_highlight_border": -1,
-		"blocked_bg": -11203062,
+        "blocked_bg": -11203062,
         "active_channel": -1
     },
     "colors": {
         "brand_500_alpha_20": -16049594,
-        "brand_new_630": -2490290,
+        "brand_new_630": -10805130,
         "button_material_dark": -15527149,
         "link": -16731916,
         "primary_500": -14188851,
-        "primary_700": -13816531,
+        "primary_700": -16777216,
         "primary_dark_300": -6579301,
         "primary_dark_330": -8355712,
-        "primary_dark_360": -6432522,
+        "primary_dark_360": -8355712,
         "primary_dark_400": -2673622,
         "primary_dark_600": -15395563,
         "primary_dark_630": -14803426,
         "primary_dark_660": -13816531,
         "primary_dark_700": -16777216,
         "primary_dark_800": -15066598,
-        "status_yellow_500": -16731916,
-        "status_yellow_500_alpha_10": -1788928,
-        "uikit_settings_item_text_color_light": -13602049
+        "status_yellow_500": -30464,
+        "status_yellow_500_alpha_10": -30464,
+        "uikit_settings_item_text_color_light": -13602049,
+        "primary_dark_200": -5987164,
+        "uikit_settings_item_text_color_dark": -16711904,
+        "white_500": -1,
+        "dim_foreground_material_light": -14803426,
+        "uikit_btn_compound_color_selector_dark": -6337793,
+        "uikit_btn_bg_color_selector_red": -65536,
+        "uikit_btn_bg_color_selector_green": -14565277,
+        "white_800": -12961222
     },
     "drawable_tints": {
         "abc_textfield_default_mtrl_alpha": -16777216,
         "abc_textfield_search_material": -16777216,
-        "drawable_button_red": -2490290
+        "drawable_button_red": -65536,
         "drawable_overlay_channels_selected_dark": -14803426,
         "ic_account_circle_white_a60_24dp": -8869,
         "ic_arrow_right_24dp": -2490290,
@@ -60,12 +68,16 @@
         "ic_sidebar_notifications_off_dark_24dp": -11842741,
         "ic_sidebar_notifications_on_dark_24dp": -14188851,
         "ic_sidebar_pins_off_dark_24dp": -1788928,
-        "ic_status_online_16dp": -9513584,
         "ic_thread": -2725874,
         "ic_thread_white_24dp": -6256,
         "ic_visibility_white_24dp": -2787329,
+        "ic_status_online_16dp": -9513584,
+        "ic_status_invisible_16dp": -11184811,
+        "ic_status_dnd_16dp": -65536,
+        "ic_status_idle_16dp": -23978,
+        "ic_mobile": -9513584
     },
     "background": {},
     "fonts": {},
     "raws": {}
-}
+	}
