@@ -4,6 +4,7 @@
         "name": "Dark Zorito 😎",
         "license": "MIT License",
         "transparency_mode": 0,
+		"updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/dark-zorito.json",
         "version": "3.1"
     },
     "background": {},
