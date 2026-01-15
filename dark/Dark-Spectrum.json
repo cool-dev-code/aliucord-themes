@@ -1,11 +1,11 @@
 {
     "manifest": {
         "author": ".inner_light",
-        "name": "Dark Zorito 😎",
+        "name": "Dark Spectrum 😎",
         "license": "MIT License",
         "transparency_mode": 0,
-		"updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/dark-zorito.json",
         "version": "3.1"
+        "updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/dark-spectrum.json"
     },
     "background": {},
     "fonts": {},
@@ -82,24 +82,4 @@
         "ic_status_idle_16dp": -23978,
         "ic_mobile": -9513584
     }
-	}        "ic_channel_text_locked": -62709,
-        "ic_channel_text_nsfw": -62709,
-        "ic_content_copy_white_a60_24dp": -10814062,
-        "ic_direct_message_header": -2725874,
-        "ic_notifications_settings_white_a60_24dp": -9257729,
-        "ic_sidebar_notifications_off_dark_24dp": -11842741,
-        "ic_sidebar_notifications_on_dark_24dp": -14188851,
-        "ic_sidebar_pins_off_dark_24dp": -1788928,
-        "ic_thread": -2725874,
-        "ic_thread_white_24dp": -6256,
-        "ic_visibility_white_24dp": -2787329,
-        "ic_status_online_16dp": -9513584,
-        "ic_status_invisible_16dp": -11184811,
-        "ic_status_dnd_16dp": -65536,
-        "ic_status_idle_16dp": -23978,
-        "ic_mobile": -9513584
-    },
-    "background": {},
-    "fonts": {},
-    "raws": {}
-	}
+}
