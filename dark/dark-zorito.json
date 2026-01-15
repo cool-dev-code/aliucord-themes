@@ -2,7 +2,7 @@
     "manifest": {
         "author": ".inner_light",
         "name": "Dark 😎",
-		"updater": "https:\/\/raw.githubusercontent.com\/\/cool-dev-code\/\/aliucord-themes\/\/main\/\/dark\/\/dark-zorito.json",
+		"updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/dark-zorito.json",
         "version": "3.0.1"
     },
 	"simple_colors": {
