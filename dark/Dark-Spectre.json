@@ -1,11 +1,11 @@
 {
     "manifest": {
         "author": ".inner_light",
-        "name": "Dark Spectrum 😎",
+        "name": "Dark Spectre 😎",
         "license": "MIT License",
         "transparency_mode": 0,
         "version": "3.1",
-        "updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/dark-spectrum.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/Dark-Spectre.json"
     },
     "background": {},
     "fonts": {},
