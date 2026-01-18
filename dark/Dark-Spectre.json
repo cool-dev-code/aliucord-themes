@@ -15,12 +15,12 @@
         "background_secondary": -15921907,
         "statusbar": -15592942,
         "input_background": -15987700,
-        "accent": -14969857,
         "mention_highlight": 422018765,
         "mention_highlight_text": -1,
         "mention_highlight_border": -1,
         "blocked_bg": -11203062,
-        "active_channel": -1
+        "active_channel": -1,
+        "accent": -10605888
     },
     "colors": {
         "brand_500_alpha_20": -16049594,
@@ -30,9 +30,9 @@
         "primary_500": -14188851,
         "primary_700": -16119286,
         "primary_dark_300": -6710887,
-        "primary_dark_330": -8355712,
+        "primary_dark_330": -11842741,
         "primary_dark_360": -8355712,
-        "primary_dark_400": -16731916,
+        "primary_dark_400": -2883584,
         "primary_dark_600": -15395563,
         "primary_dark_630": -14803426,
         "primary_dark_660": -13816531,
@@ -43,10 +43,10 @@
         "uikit_settings_item_text_color_light": -11513776,
         "primary_dark_200": -2302756,
         "uikit_settings_item_text_color_dark": -6710887,
-        "white_500": -1,
+        "white_500": -3289651,
         "dim_foreground_material_light": -14803426,
         "uikit_btn_compound_color_selector_dark": -6337793,
-        "uikit_btn_bg_color_selector_red": -1165256,
+        "uikit_btn_bg_color_selector_red": -2883584,
         "uikit_btn_bg_color_selector_green": -14565277,
         "white_800": -12961222,
         "material_grey_50": -12961222,
@@ -55,7 +55,7 @@
     "drawable_tints": {
         "abc_textfield_default_mtrl_alpha": -16777216,
         "abc_textfield_search_material": -16777216,
-        "drawable_button_red": -1165256,
+        "drawable_button_red": -5177344,
         "drawable_overlay_channels_selected_dark": -15979961,
         "ic_account_circle_white_a60_24dp": -8869,
         "ic_arrow_right_24dp": -8869,
@@ -82,6 +82,7 @@
         "ic_status_invisible_16dp": -11184811,
         "ic_status_dnd_16dp": -1165256,
         "ic_status_idle_16dp": -23978,
-        "ic_mobile": -9513584
+        "ic_mobile": -9513584,
+        "uikit_btn_compound_color_selector_light": -9513584
     }
 }
